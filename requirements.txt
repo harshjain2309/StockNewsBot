@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+faiss-cpu
+ollama
+python-
+
+
+
+transformers
+huggingface_hub
